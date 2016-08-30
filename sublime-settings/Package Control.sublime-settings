@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AngularJS",
+		"Emmet",
+		"GitGutter",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"LaTeXing",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-javac",
+		"SublimeLinter-jshint"
+	]
+}

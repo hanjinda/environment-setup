@@ -1,0 +1,31 @@
+{
+    "auto_formatting": true,
+    "pep8_ignore": [
+        "E111", // indentation is not a multiple of four
+        "E114", // indentation is not a multiple of four (comment)
+        "E101", // indentation is not a multiple of four (duplicate)
+        "E121", // (*^) continuation line under-indented for hanging indent
+
+        "E201", // whitespace after ‘(‘
+        "E202", // whitespace before ‘)’
+        "E211", // whitespace before ‘(‘
+
+        "E221", // multiple spaces before operator
+        "E303", // too many blank lines (3)
+        "E501" // (^) line too long (82 > 79 characters)
+    ],
+    "autoformat_ignore": [
+        "E111", // indentation is not a multiple of four
+        "E114", // indentation is not a multiple of four (comment)
+        "E101", // indentation is not a multiple of four (duplicate)
+        "E121", // (*^) continuation line under-indented for hanging indent
+
+        "E201", // whitespace after ‘(‘
+        "E202", // whitespace before ‘)’
+        "E211", // whitespace before ‘(‘
+
+        "E221", // multiple spaces before operator
+        "E303", // too many blank lines (3)
+        "E501" // (^) line too long (82 > 79 characters)
+    ]
+}

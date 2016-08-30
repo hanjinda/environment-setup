@@ -1,0 +1,7 @@
+{
+   "open_pdf_on_load": true,
+   "typeset_on_save": true,
+   "type_scrolling": true,
+   "output_directory": true,
+   "show_log_panel_on": ["errors", "warnings", "badboxes"]
+}
